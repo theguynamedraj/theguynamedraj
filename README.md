@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <table>
 <tr>
-<td width="45%">
+<td width="50%">
 
 ### 👨‍💻 About Me
 
@@ -58,7 +58,7 @@ const rajaryan = {
 };
 ```
 </td> 
-<td width="55%">
+<td width="50%">
  <h2>🎯Current focus</h2>
   <h3>🛠️Working On</h3>
   <ul>
