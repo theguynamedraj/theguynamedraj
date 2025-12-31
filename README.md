@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;Building+clean+and+scalable+UIs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+JavaScript;Building+clean+and+scalable+UIs" />
 </p>
 
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <table>
 <tr>
-<td width="50%">
+<td width="45%">
 
 ### 👨‍💻 About Me
 
@@ -58,7 +58,7 @@ const rajaryan = {
 };
 ```
 </td> 
-<td width="50%">
+<td width="55%">
  <h2>🎯Current focus</h2>
   <h3>🛠️Working On</h3>
   <ul>
