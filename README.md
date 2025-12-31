@@ -35,53 +35,71 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
 
 ```js
-const rajAryan = {
-  pronouns: "He/Him",
-  location: "Delhi, India 🇮🇳",
-  role: "Frontend Developer",
-  education: "BCA Graduate",
-  experience: "Frontend Intern (React.js)",
-  frontend: ["React", "Next.js", "JavaScript", "TypeScript"],
-  styling: ["Tailwind CSS", "CSS3"],
-  tools: ["Git", "GitHub", "VS Code"]
+const rajaryan = {
+    pronouns: "He" | "Him",
+    location: "Delhi, India 🇮🇳",
+    role: "Full Stack Developer",
+    code: ["C++", "JavaScript", "TypeScript", "Python"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["TailwindCSS", "Bootstrap"]
+        },
+        backEnd: {
+            java: ["Spring Boot", "Hibernate"],
+            js: ["Node.js", "Express"]
+        },
+        databases: ["MySQL", "MongoDB", "PostgreSQL"],
+        devOps: ["Docker", "Jenkins", "AWS"],
+        tools: ["Git", "Postman", "Jira"]
+    },
+    currentFocus: "Building Scalable Microservices",
+    funFact: "Debugging > Coding 🐛"
 };
 ```
 </td> 
 <td width="50%">
-🎯 Current Focus
-
-Building modern frontend applications
-
-Improving UI/UX & performance
-
-🌱 Learning
-
-Advanced React patterns
-
-TypeScript best practices
-
-🤝 Open For
-
-Frontend internships
-
-Open-source collaboration
-
-⚡ Fun Fact
-
-I enjoy debugging & building real products
+ <h2>🎯Current focus</h2>
+  <h3>🛠️Working On</h3>
+  <ul>
+    <li>Building Full Stack Web Applications</li>
+    <li>Microservices architecture</li>
+    <li>Cloud-native solutions</li>
+  </ul>
+ <h3>🌱 Learning</h3>
+      <ul>
+        <li>Advanced Spring Boot patterns</li>
+        <li>AWS Cloud Services</li>
+        <li>Kubernetes & Container Orchestration</li>
+      </ul>
+ <h3>💡 Open For</h3>
+      <ul>
+        <li>Open source collaborations</li>
+        <li>Full-stack opportunities</li>
+        <li>Tech discussions & mentoring</li>
+      </ul>
+ <h3>⚡ Fun Fact</h3>
+      <ul>
+        <li>I enjoy debugging more than coding!</li>
+        <li>Learning through building real projects</li>
+      </ul>
 
 </td> </tr> </table>
 
-🛠️ Tech Stack & Tools
+<img src="https://user-images.githubusercontent.com/74038190/212284129-9b9c12d0-18b8-4a2d-bc53-6bcd8bfae6f2.gif" width="100%" />
+
+
+
+<h2>🛠️ Tech Stack & Tools</h2>
 🌐 Frontend Development
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite" /> </p>
 🧰 Tools & Platforms
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
-📈 Coding Activity
+<h2>📈 Coding Activity </h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=theguynamedraj&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=theguynamedraj&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=theguynamedraj&theme=tokyo-night" /> </p>
-💬 Random Dev Quote
+ <h2>💬 Random Dev Quote </h2>
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p>
-🤝 Connect With Me
+ <h2>🤝 Connect With Me </h2>
 <p align="center"> <a href="https://linkedin.com/in/rajverse/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="mailto:ra53156@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /> </a> <a href="https://twitter.com/theguynamedraj"> <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" /> </a> </p>
 <!-- ===================== BOTTOM BANNER ===================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff" /> 
 <p align="center">
