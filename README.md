@@ -91,10 +91,10 @@ const rajaryan = {
 
 
 <h2>🛠️ Tech Stack & Tools</h2>
-🌐 Frontend Development
+<h3>🌐 Frontend Development</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite" /> </p>
-🧰 Tools & Platforms
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+<h3>🧰 Tools & Platforms</h3>
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
 <h2>📈 Coding Activity </h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=theguynamedraj&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=theguynamedraj&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=theguynamedraj&theme=tokyo-night" /> </p>
  <h2>💬 Random Dev Quote </h2>
