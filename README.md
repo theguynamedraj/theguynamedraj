@@ -105,4 +105,4 @@ const rajaryan = {
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=theguynamedraj&label=Profile%20Views&color=0e75b6" />
 </p>
-</p> <p align="center"> ⭐ From <strong>Raj Aryan</strong> with ❤️ | Happy Coding 🚀 </p> ```
+</p> <p align="center"> ⭐ From <strong>Raj Aryan</strong> with ❤️ | Happy Coding 🚀 </p>
